@@ -1,4 +1,4 @@
-//  Copyright (C) 2011 Lucas Catabriga Rocha <catabriga90@gmail.com>
+//  Copyright (C) 2023 Phạm Lê Ngọc Sơn
 //    
 //  This file is part of Graphwar.
 //
